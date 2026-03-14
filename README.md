@@ -26,8 +26,8 @@
 
 1.1v : Fix bugs.
 
-1.0v : First Released. Added cloud, changed start menu.
+1.0v : First Formal Version. Added cloud, changed start menu.
 
 0.2v : Change the textures
 
-0.1v : First version
+0.1v : First Released
